@@ -66,3 +66,26 @@ above to add new branch
 git checkout "branch_name"
 
 to switch between branches
+
+git push -u origin "branch_name we want to merge"
+
+pull request 
+
+it is request pull a branch into another branch
+
+go to github pull request->complete procudre check files changed
+write comment delete branch
+
+  first_branch
+
+change branch back to main
+
+git pull
+
+to get updated main branch in local repo
+ 
+if a file is already added to git no need to 
+git add "file_name"
+
+directly -am instead of -m =>a means add
+git commit -am "message" 
