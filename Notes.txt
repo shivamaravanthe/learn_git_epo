@@ -88,4 +88,25 @@ if a file is already added to git no need to
 git add "file_name"
 
 directly -am instead of -m =>a means add
-git commit -am "message" 
+git commit -am "message"
+
+git reset "file_name"
+
+to undo a added file
+
+git reset HEAD~1 
+to undo commit
+
+git log
+gives all the changed commits and commit hash
+
+git commit "commit hash"
+undo commit after that commit that is unstages 
+
+git reset --hard "commit hash"
+completely deletes all the changes
+
+fork
+to clone others repo or repo to which you cannot commit directly
+make changes and if you add it to main repo then use pull request
+if they accept pull request changes are merged
