@@ -60,6 +60,8 @@ git checkout -b "branch_name"
 
 git checkout -b first_branch
 
+above to add new branch
+
 git checkout "branch_name"
 
 to switch between branches
