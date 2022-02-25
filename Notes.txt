@@ -60,7 +60,8 @@ git checkout -b "branch_name"
 
 git checkout -b first_branch
 
-to create new branche
+above to add new branch
+
 
 git checkout "branch_name"
 
