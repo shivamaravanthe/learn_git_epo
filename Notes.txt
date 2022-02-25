@@ -1,0 +1,50 @@
+Git
+
+Free and open source version control system.
+
+
+Version Control
+
+The management of changes to doucments, computer programs, large 
+web sites,and other collections of information.
+
+Clone
+
+Bring a repository that is hosted somewhere like Github into a 
+folder on your local machine
+
+add
+
+Track your files and changes in Git
+
+commit
+
+Save your files
+
+push
+
+Upload Git commits to remote repo,like Github
+
+Pull
+
+Download changes from remote repo to your local 
+machine, the opposite of push
+
+
+To Clone Github Repo
+
+Type in terminal
+navigate to working folder using cd
+
+git clone ( copy paste SSH available in code btn)
+
+git status
+
+gives all info about which files are modified/unchanged
+
+git add .
+
+use "git add <file>..." to update what will be committed
+
+use "git restore <file>..." to discard changes in working directory
+
