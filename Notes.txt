@@ -111,4 +111,4 @@ to clone others repo or repo to which you cannot commit directly
 make changes and if you add it to main repo then use pull request
 if they accept pull request changes are merged
 
-#Make changes to commit it
+#Made changes to commit it
